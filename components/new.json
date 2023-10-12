@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Direksiyonlar değişiyor! İşte otomobillerin yeni yüzü",
+    "publishDate": "6 gün önce",
+    "publishedBy": "Hurriyet.com.tr",
+    "image": "direksiyonHaberi"
+  },
+  {
+    "id": "2",
+    "title": "Trump açıkladı: Huawei telefon sahiplerine önemli uyarı",
+    "publishDate": "1 ay önce",
+    "publishedBy": "Hurriyet.com.tr",
+    "image": "trumpHuawei"
+  },
+  {
+    "id": "3",
+    "title": "Otogarı teknoloji merkezi haline getireceğiz",
+    "publishDate": "30 gün önce",
+    "publishedBy": "Hurriyet.com.tr",
+    "image": "ekoOtogar.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Xiaomi'den ön kamerası kaybolan telefon!",
+    "publishDate": "12 gün önce",
+    "publishedBy": "Hurriyet.com.tr",
+    "image": "xiaomiTelefon.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Teknoloji devlerine vergi darbesi!",
+    "publishDate": "18 gün önce",
+    "publishedBy": "Haberturk.com",
+    "image": "teknolojiDevleri.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Google'ın yeni teknoloji ortağı oldu",
+    "publishDate": "22 gün önce",
+    "publishedBy": "Haberturk.com",
+    "image": "googleYeniOrtağı.jpg"
+  }
+]

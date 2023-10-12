@@ -2,6 +2,7 @@
   "expo": {
     "name": "10-huseyinemrekaya",
     "slug": "10-huseyinemrekaya",
+    "owner": "sm002",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +26,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7461b63e-005d-48e3-92b5-9251aa22c25b"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7461b63e-005d-48e3-92b5-9251aa22c25b"
     }
   }
 }
